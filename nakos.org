@@ -2,7 +2,7 @@
 #+Author: Yusman Kamaleri
 #+Date: 15 May 2015
 
-#+REVEAL_HLEVEL: 2
+
 #+REVEAL_THEME: beige
 
 #+REVEAL_TITLE_SLIDE_TEMPLATE: <h1>%t</h1><h3>%a</d><h5>%d</h5>
@@ -19,9 +19,22 @@ Contributions
 - Variables: Do's and Don'ts
 - Analyses of the data
 - Visualization of the results
-- Auto report generating ie. PDF, HTML or DOCX
+** Visualization of the results
+  + Local use
+    - Excel
+    - R via [[./images/SnipImage.JPG][Rapporteket]] or [[./images/shiny.jpeg][Shiny]]
+  + R packages eg. [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
+  + Public via [[https://www.kvalitetsregistre.no/registers/norsk-hjertestansregister][online]] or The Norwegian Directorate of Health
+  + Indicators
+    - MRS-Results via [[https://app.powerbi.com/view?r=eyJrIjoiOTc5MjM1ODEtMGRlYi00NjU2LWJlYzgtODMyYmQ3OGYxN2E5IiwidCI6IjE2ZmY5NjNmLThlYWItNDEyZi04ZWE5LTlkYWVkMzA3OGI5OCIsImMiOjh9][PowerBI]]
+    - Shiny via [[http://discovery.wmflabs.org/metrics/#kpis_summary][Cancer Register]]
+* Statistics
+Contributions
+- Variables: Do's and Don'ts
+- Analyses of the data
+- Visualization of the results
+- Auto report generating ie. LaTeX, HTML or DOCX
 * Epidemiology
-- Statistical Process Control
-- Variation
-
-Selection of data for research
+- Statistical Process Control eg. [[https://www.ncbi.nlm.nih.gov/pubmed/23773727][Pandemrix® vaccination]]
+- Variation eg. [[https://www.ncbi.nlm.nih.gov/pubmed/18977088][Pain sites]]
+- Registry Data for research

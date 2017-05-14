@@ -1,6 +1,6 @@
 #+Title: Registery Data
 #+Author: Yusman Kamaleri
-#+Date: 15 May 2015
+#+Date: 15 May 2017
 
 
 #+REVEAL_THEME: beige
@@ -35,6 +35,6 @@ Contributions
 - Visualization of the results
 - Auto report generating ie. LaTeX, HTML or DOCX
 * Epidemiology
-- Statistical Process Control eg. [[https://www.ncbi.nlm.nih.gov/pubmed/23773727][Pandemrix® vaccination]]
 - Variation eg. [[https://www.ncbi.nlm.nih.gov/pubmed/18977088][Pain sites]]
+- Statistical Process Control eg. [[https://www.ncbi.nlm.nih.gov/pubmed/23773727][Pandemrix® vaccination]]
 - Registry Data for research
